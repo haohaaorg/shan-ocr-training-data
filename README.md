@@ -21,8 +21,5 @@ These images are generated with nodejs text-to-image and jimp using [these five 
 Each image output result is in [labels.csv](https://github.com/kwarm/shan-ocr-training-data/blob/master/labels.csv) .
 
 #### Fonts <a name="fonts"></a>
-1. [Panglong - Main font](https://github.com/kwarm/kwarm-assets/blob/master/fonts/Panglong.ttf)
-2. [Pyidaungsu](https://github.com/kwarm/kwarm-assets/blob/master/fonts/Pyidaungsu.ttf)
-3. [Klo](https://github.com/kwarm/kwarm-assets/blob/master/fonts/Klo.ttf)
-4. [Klo3](https://github.com/kwarm/kwarm-assets/blob/master/fonts/Klo3.ttf)
-5. [Sai](https://github.com/kwarm/kwarm-assets/blob/master/fonts/Sai.ttf)
+1. [Panglong - Main font](https://github.com/kwarm/kwarm-assets/blob/master/fonts/Panglong.ttf) [ Shan Only ]
+2. [Pyidaungsu](https://github.com/kwarm/kwarm-assets/blob/master/fonts/Pyidaungsu.ttf) [ Shan and Burmese ]
