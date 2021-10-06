@@ -17,7 +17,7 @@ Shan syllable break = https://github.com/kwarm/syllable-break
 
 
 ## 1000 images and labels to train Shan language OCR
-These images are generated with nodejs text-to-image and jimp using [these five fonts](#fonts) and the main font is "Panglong". 
+These images are generated with nodejs text-to-image and jimp using the below two fonts and the main font is "Panglong". 
 Each image output result is in [labels.csv](https://github.com/kwarm/shan-ocr-training-data/blob/master/labels.csv) .
 
 #### Fonts <a name="fonts"></a>
