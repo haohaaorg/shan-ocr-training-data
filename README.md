@@ -13,7 +13,7 @@ Two characters code = sh
 
 Example websites that are using Shan scripts = https://shannews.org/ , http://shanunicode.com/
 
-Shan syllable break = https://github.com/haohaaorg/syllable-break
+Shan syllable break = https://github.com/haohaaorg/shan-syllable-break
 
 
 ## 1000 images and labels to train Shan language OCR
